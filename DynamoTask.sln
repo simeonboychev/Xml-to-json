@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoTask", "DynamoTask\DynamoTask.csproj", "{AACE36F0-8233-4185-8AEF-19D66CA4852D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamoTask.UnitTests", "DynamoTask.UnitTests\DynamoTask.UnitTests.csproj", "{7F255B76-B65A-46B3-BF73-2A61DF55D039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AACE36F0-8233-4185-8AEF-19D66CA4852D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACE36F0-8233-4185-8AEF-19D66CA4852D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACE36F0-8233-4185-8AEF-19D66CA4852D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACE36F0-8233-4185-8AEF-19D66CA4852D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F255B76-B65A-46B3-BF73-2A61DF55D039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F255B76-B65A-46B3-BF73-2A61DF55D039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F255B76-B65A-46B3-BF73-2A61DF55D039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F255B76-B65A-46B3-BF73-2A61DF55D039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F28595C2-71EB-4AAD-BE28-6F7A04059841}
+	EndGlobalSection
+EndGlobal

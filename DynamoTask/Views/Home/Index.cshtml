@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Dynamo Task";
+}
+
+<form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" name="file" id="fileInput">
+    <input type="text" name="fileName" id="newFileNameInput" placeholder="New File Name">
+    <button type="button" id="submitBtn">Submit</button>
+</form>
+<div id="response"></div>
+
+<script src="/js/converter.js"></script>
